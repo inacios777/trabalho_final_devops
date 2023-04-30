@@ -1,0 +1,6 @@
+name: devops-experiments-env
+dependecies:
+ - python=3.9
+ -pip
+ -pip:
+  - -r reqiriments.txt
